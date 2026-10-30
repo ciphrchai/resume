@@ -1,0 +1,12 @@
+{
+  "name": "resumelab/resume-analyzer",
+  "description": "Privacy-conscious AI resume feedback for students",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "smalot/pdfparser": "^2.13.1"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
